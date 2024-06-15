@@ -1,7 +1,6 @@
 # Fake News Detector
 
-A machine learning pipeline for detecting fake news using NLP techniques.
-
+The Fake News Detector is a machine learning project designed to identify and classify news articles as either real or fake using natural language processing (NLP) techniques. This project leverages a variety of data preprocessing methods and classification algorithms to achieve accurate predictions.
 
 
 ## Usage
